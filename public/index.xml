@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tyler Lucas</title>
+    <link>https://awildtylerappeared.com/</link>
+    <description>Recent content on Tyler Lucas</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Tyler Lucas - All rights reserved</copyright>
+    <lastBuildDate>Tue, 31 Dec 2019 11:44:40 -0800</lastBuildDate>
+    
+	<atom:link href="https://awildtylerappeared.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>New Year is Here</title>
+      <link>https://awildtylerappeared.com/posts/my-first-post/</link>
+      <pubDate>Tue, 31 Dec 2019 11:44:40 -0800</pubDate>
+      
+      <guid>https://awildtylerappeared.com/posts/my-first-post/</guid>
+      <description>What&#39;s up This is a test
+How does it look?
+myFunc { console.log(`Hello world`); } Lorem ipsum dolor sit amet, posse eruditi fabellas ex pro, te est homero hendrerit.</description>
+    </item>
+    
+  </channel>
+</rss>

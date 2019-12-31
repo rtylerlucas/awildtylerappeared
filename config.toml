@@ -1,0 +1,35 @@
+baseURL = "https://awildtylerappeared.com/"
+languageCode = "en-us"
+title = "Tyler Lucas"
+theme = "mediumish"
+summaryLength = 25
+copyright = "Tyler Lucas - All rights reserved"
+disqusShortname = "awildtylerappeared"
+
+[params]
+  logo = "/images/t-logo.png"
+  description =""
+
+[params.author]
+  name = "Tyler Lucas"
+  thumbnail = "/images/this-is-ty.png"
+  description = "Creator of this blog."
+
+[params.index]
+  picture = "/images/this-is-ty.png"
+  title = ""
+  subtitle = ""
+  mdtext = '''Currently trying to get this blog running, still don't know what the blog will be about!'''
+  alertbar = false
+
+## Main Menu
+[[menu.main]]
+    name = "Posts"
+    weight = 100
+    identifier = "blog"
+    url = "/posts"
+[[menu.main]]
+    name = "About"
+    identifier = "about"
+    weight = 200
+    url = "/"
