@@ -1,26 +1,53 @@
 ---
-title: "New Year is Here"
+title: "The New Year is Here"
 date: 2019-12-31T11:44:40-08:00
 draft: false
 ---
-## What's up
+## The New Year is Here
 
-This is a test
+Blurb about what this post is about
+
+## Highlights of 2019
+
+## Goals
+
+### 2019 - The Best We Could Do
+
+Last year I wrote a personal review of the year prior, with goals set going into 2019.
+
+My 2019 goals were quite humble. (Play piano, meditate, write, etc). If I were to pick a theme for last year's goals, it would be *sustainability*. I was coming off a strong 2018. I had just started a new job @ Convoy. The goals were focused on building healthy habits that could last a lifetime. Some were achieved, some in partial capacity, and some not at all.
+
+2020's goals are more incremental. For starters, they are not annual, but monthly.
+
+2020 goals are targeted more towards outcomes and less toward routines. This is not to discredit the power of habit, far from it. I'm a huge believer in ([Queue => Routine => Reward](https://www.goodreads.com/book/show/12609433-the-power-of-habit)).
+
+I've found setting explicit goals against habits sometimes takes away from the benefits those habits invoke. I do not need an annual goal of brushing my teeth 730 times a year, for example. The only reason I brush my teeth is to maintain a healthy smile. If my goal was 730 brushes, perhaps I knock all 730 out in Q1; my teeth proceed to deteriorate the rest of the year. Or maybe the opposite - Q3 rolls around and I've only brushed a couple dozen times. I would be hard pressed to even attempt to reach 730, knowing how far I am from the target.
+
+The goal should be the raison d'etre, not the means. Lofty goals, simple steps.
+
+### Goals in January 2020
 
 How does it look?
 
-```javascript
-myFunc {
-    console.log(`Hello world`);
-}
-```
+Goal: Build a healthy website. I see the personal website as a gateway for improvement in several avenues of life. Creative, social, professional[¹](#1).
 
-Lorem ipsum dolor sit amet, posse eruditi fabellas ex pro, te est homero hendrerit. Cum no ferri semper fabellas, ei vel adolescens consectetuer. Ubique definiebas appellantur sit ea, case primis ad mel. Has erant oratio ex. Erat omittantur et cum, modus affert equidem usu ex. Ne augue utamur eum, ad qui dicit meliore.
+### (1) Launch a Personal Timeline feature on this site
 
-Ea ius option facilisis. Enim sint nobis et sea, odio scripta his at, nec utamur commune facilisis ex. Vis cu ancillae assentior referrentur, sea sint detraxit sadipscing id, qui id possit deserunt. Vivendo nostrum splendide in qui, cibo bonorum ocurreret vis in. An vel omnium labores constituam.
+I love the idea of a succinct timeline view of major events in someone's life. It's the story we tell ourselves, through whatever lense fits. LinkedIn is one example, is a timeline scoped to your professional career. [Here](https://www.dkthehuman.com/about/) is more 'personal lifetime' example that I enjoy.
 
-Cu possit debitis consequuntur sed. Ne quot equidem sit, id mel mucius suscipit. Meliore fastidii his ex, debitis accumsan complectitur vis te. Usu labores denique ad, cu his dicat quidam. Et nullam reformidans interpretaris mea, per facer nonumy ex, ei mutat minim elaboraret vix.
+### (2) Make a 'Top Ten' post
 
-Eam id dicant gubergren gloriatur, malorum persius quo et, eum te commodo electram. Est diam sonet dissentiet in, wisi commune ea eum. Pro consul putant vulputate ne, eos et forensibus concludaturque. Est ex eros fierent cotidieque, purto idque omnesque ne sit, ex doctus petentium mea. Quot complectitur usu ne, sea an dicta debet suavitate.
+'Top Ten' is a simple pattern that turns a topic into something easy to read, write, and talk about. I'm setting the bar quite low here - all the more reason to #GetShitDone. Some potential topics of mine:
 
-Viderer legendos et mel. Nam erant iriure ei. Postea accusamus reformidans duo at, cu praesent voluptatibus ius. Mazim suscipiantur eum in. Ut sea mandamus temporibus intellegebat, agam populo indoctum vim ne.
+- Documentaries
+- Vegan Meals
+- Movies involving Time Travel
+- Celebrity Role Models
+
+### (3) Make a post about the Electrical Grid, Survivorship, and Self Sustainability
+
+I am nearly done with 'The Grid', by Gretchen Bakke.
+
+## Footnotes
+
+_[¹](#1) <a class="anchor" id="1"></a> Shout out to my good friend and fellow narscissist [sir.hamy](https://iamhamy.xyz/) for the inspiration. Love watching him evolve over time through the lense of his webverse._
