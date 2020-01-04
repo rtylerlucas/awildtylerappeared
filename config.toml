@@ -12,7 +12,7 @@ disqusShortname = "awildtylerappeared"
 
 [params.author]
   name = "Tyler Lucas"
-  thumbnail = "/images/this-is-ty.png"
+  thumbnail = "/images/ty-profile.jpg"
   description = "Creator of this blog."
 
 [params.index]
@@ -28,8 +28,3 @@ disqusShortname = "awildtylerappeared"
     weight = 100
     identifier = "blog"
     url = "/posts"
-[[menu.main]]
-    name = "About"
-    identifier = "about"
-    weight = 200
-    url = "/"
