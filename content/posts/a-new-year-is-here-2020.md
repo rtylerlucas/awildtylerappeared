@@ -73,7 +73,7 @@ I love the idea of a succinct timeline view of major events in someone's life. I
 
 ### (3) Make a post about the Electrical Grid and Self Sustainability
 
-I'm nearly done with ['The Grid'](https://www.goodreads.com/book/show/26073005-the-grid), by Gretchen Bakke. It was a lovely Christmas gift, and it's one of the first physical books I've read in some time[⁶](#6). I yearn to talk about it in nearly every social interaction as of late, while my friends smile and nod politely. I figured I'll make a post, get it off my chest, and move on to the next one.
+I'm nearly done with ['The Grid'](https://www.goodreads.com/book/show/26073005-the-grid), by Gretchen Bakke. The book was a lovely Christmas gift, and it's one of the first physical books I've read in some time[⁶](#6). I yearn to talk about it in nearly every social interaction as of late, while my friends smile and nod politely. I figured I'll make a post, get it off my chest, and move on to the next one.
 
 ## Thanks for Reading
 
