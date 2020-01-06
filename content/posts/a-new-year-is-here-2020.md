@@ -1,6 +1,6 @@
 ---
 title: "A New Year is Here"
-date: 2020-01-05T13:00:00-00:00
+date: 2020-01-06T10:00:00-00:00
 draft: false
 ---
 Welcome to my freshly minted website. This post covers highlights from the past year as well as my goal-setting strategem going in to 2020.
