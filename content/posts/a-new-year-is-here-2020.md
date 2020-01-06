@@ -97,7 +97,7 @@ T
 
 [³](#3) _Part of my feels embarassed leveraging OKRs - It's a system we use at Convoy, and for whatever reason I find it a bit cringy bringing fluffy business terms outside of the office. I'll try it out, and if it doesn't work, move on to something better._
 
-[⁴](#4) _Shout out to my good friend and fellow narscissist [sir.hamy](https://iamhamy.xyz/) for the inspiration. Love watching him evolve over time through the lense of his own webverse._
+[⁴](#4) _Shout out to my good friend and fellow narscissist [sir.hamy](https://iamhamy.xyz/), and bug bounty hunter extraordinare [Ryan Pickren](https://www.ryanpickren.com/) for the inspiration. Love watching these two evolve over time through the lense of their webverse._
 
 [⁵](#5) _Yes, my URL matches my Instagram handle._ [_You Did It. The Crazy Son of a Bitch, You Did It._](https://i.kym-cdn.com/entries/icons/original/000/031/119/gold1.jpg)
 
