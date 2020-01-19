@@ -2,24 +2,34 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>awildtylerappeared</title>
-    <link>https://awildtylerappeared.com/</link>
+    <link>https://www.awildtylerappeared.com/</link>
     <description>Recent content on awildtylerappeared</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Tyler Lucas - All rights reserved</copyright>
-    <lastBuildDate>Tue, 31 Dec 2019 11:44:40 -0800</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jan 2020 10:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://awildtylerappeared.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.awildtylerappeared.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>A New Year is Here</title>
-      <link>https://awildtylerappeared.com/posts/my-first-post/</link>
-      <pubDate>Tue, 31 Dec 2019 11:44:40 -0800</pubDate>
+      <link>https://www.awildtylerappeared.com/posts/a-new-year-is-here-2020/</link>
+      <pubDate>Mon, 06 Jan 2020 10:00:00 +0000</pubDate>
       
-      <guid>https://awildtylerappeared.com/posts/my-first-post/</guid>
-      <description>Welcome to my freshly minted website. This post covers highlights from the year past and personal goals for the new year.
-Highlights of 2019   Snow Hiking - 02/2019</description>
+      <guid>https://www.awildtylerappeared.com/posts/a-new-year-is-here-2020/</guid>
+      <description>Welcome to my freshly minted website. This post covers highlights from the past year as well as my goal-setting strategem going in to 2020.
+Highlights of 2019 2019 - The Best We Could Do Last year I wrote a personal review of the year prior, with set goals going into 2019¹.</description>
+    </item>
+    
+    <item>
+      <title>8 Favorite Time-Travel Movies</title>
+      <link>https://www.awildtylerappeared.com/posts/top-ten-movies-about-time-travel/</link>
+      <pubDate>Sun, 05 Jan 2020 13:00:00 +0000</pubDate>
+      
+      <guid>https://www.awildtylerappeared.com/posts/top-ten-movies-about-time-travel/</guid>
+      <description>Time travel is a fun plot device.
+X Men: Days of Future Past Minority Report Terminator 2 Interstellar Back to the Future Avengers: Endgame Harry Potter and the Prisoner of Azkaban About Time Edge of Tomorrow Arrival Ones I Have Yet To See Tenet</description>
     </item>
     
   </channel>
