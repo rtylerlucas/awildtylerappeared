@@ -10,14 +10,21 @@ This was mostly inspired by Gretchen Bakke's "The Grid".
 
 ## How It Was
 
-
+The American electrical system had a exponentional rise to fame. 
+1890 - 
+1910 - 
+1920 - 
+1950 -
+It quickly went from novelty to necessisity. 
 
 ## How It Works
 
-Electricity does not flow like water
+Electricity does not flow like water. Electricity is produced and consumed as soon as it is requested. Once you flip a light switch, some power plant, most likely burning coal, generated, transmitted, and delivered the voltage necessary.
 
 ## What the Future Looks Like
 
 The primary bottleneck for renewable energy is _not_ the production of power, but instead the oscillating availability. What do we do if the wind stops blowing or the sun sets for the day? As mentioned, electricity is produced as soon as it's consumed. We do not have a good solution for durable storage of electricty at a national scale. 
 
 The future will be mostly microgrids. A handful of college campuses and grid hipsters already operate like this. 
+
+As always, thank you for reading. If you have thoughts on the past, present, or future of electricity, do share.
