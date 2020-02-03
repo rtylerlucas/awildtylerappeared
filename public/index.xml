@@ -7,10 +7,39 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Tyler Lucas - All rights reserved</copyright>
-    <lastBuildDate>Mon, 06 Jan 2020 10:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 01 Feb 2020 10:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.awildtylerappeared.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>February</title>
+      <link>https://www.awildtylerappeared.com/posts/feb-goals/</link>
+      <pubDate>Sat, 01 Feb 2020 10:00:00 +0000</pubDate>
+      
+      <guid>https://www.awildtylerappeared.com/posts/feb-goals/</guid>
+      <description>Welcome to my freshly minted website. This post covers highlights from the past year as well as my goal-setting strategem going in to 2020.
+ Younger brother called me a &amp;lsquo;goalie man&amp;rsquo; (I swiftly corrected him that I was a midfielder)  Highlights of January   OKRs hit!</description>
+    </item>
+    
+    <item>
+      <title>7 Favorite Documentaries</title>
+      <link>https://www.awildtylerappeared.com/posts/favorite-documentaries/</link>
+      <pubDate>Sun, 19 Jan 2020 13:00:00 +0000</pubDate>
+      
+      <guid>https://www.awildtylerappeared.com/posts/favorite-documentaries/</guid>
+      <description>I love documentaries. Here are a few.
+The Game Changers Game Changers focuses on the benefits of plant-based diets through the lense of professional atheletes. While the film touches on the environmental impact and animal cruelity side of meat production, it centers on the health implications of mass-consumption of animal protein.</description>
+    </item>
+    
+    <item>
+      <title>Time Travel Movies</title>
+      <link>https://www.awildtylerappeared.com/posts/time-travel-movies/</link>
+      <pubDate>Sun, 19 Jan 2020 11:38:00 +0000</pubDate>
+      
+      <guid>https://www.awildtylerappeared.com/posts/time-travel-movies/</guid>
+      <description>I love stories that mess with time. Seeing characters interact over vastly different time periods is pure movie magic. I initially wrote captions for each of these, but found them more powerful without.</description>
+    </item>
     
     <item>
       <title>A New Year is Here</title>
@@ -20,16 +49,6 @@
       <guid>https://www.awildtylerappeared.com/posts/a-new-year-is-here-2020/</guid>
       <description>Welcome to my freshly minted website. This post covers highlights from the past year as well as my goal-setting strategem going in to 2020.
 Highlights of 2019 2019 - The Best We Could Do Last year I wrote a personal review of the year prior, with set goals going into 2019¹.</description>
-    </item>
-    
-    <item>
-      <title>8 Favorite Time-Travel Movies</title>
-      <link>https://www.awildtylerappeared.com/posts/top-ten-movies-about-time-travel/</link>
-      <pubDate>Sun, 05 Jan 2020 13:00:00 +0000</pubDate>
-      
-      <guid>https://www.awildtylerappeared.com/posts/top-ten-movies-about-time-travel/</guid>
-      <description>Time travel is a fun plot device.
-X Men: Days of Future Past Minority Report Terminator 2 Interstellar Back to the Future Avengers: Endgame Harry Potter and the Prisoner of Azkaban About Time Edge of Tomorrow Arrival Ones I Have Yet To See Tenet</description>
     </item>
     
   </channel>
