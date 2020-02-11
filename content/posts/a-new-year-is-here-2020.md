@@ -48,9 +48,9 @@ The goal should be the raison d'etre. Lofty goals, simple steps.
 
 ### Goals in January 2020
 
-OK - So I preformed a schema migration. What do the rows look like? Heavily inspired by John Doerr's [OKR System](https://www.goodreads.com/book/show/39286958-measure-what-matters), I'll set a goal for the month, (The "*O*bjective"), then list a couple steps that I think might get me to that goal (The "*K*ey *R*esults").[³](#3)
+OK - So I preformed a schema migration. What do the rows look like? Heavily inspired by John Doerr's [OKR System](https://www.goodreads.com/book/show/39286958-measure-what-matters), I'll set a goal for the month, (The "Objective"), then list a couple steps that I think might get me to that goal (The "Key Results").[³](#3)
 
-#### Goal: Build a healthy website
+#### Objective: Build a healthy website
 
 I see the personal website as a gateway for improvement in several avenues of life. Creative, social, and professional[⁴](#4). If you're reading this, than you can see this site is well on its way! I've always enjoyed writing - when I'm actively doing it, my thoughts tend to be more organized. Not only exposition, but also Javascript, Python, or JPEG. This website provides an incredibly low barrier-to-entry for organizing those thoughts and feelings. I'm Marie Kondoing my mind. Messy, true, but also joyful, and necessary.
 
