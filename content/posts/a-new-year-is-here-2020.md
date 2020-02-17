@@ -7,24 +7,24 @@ Welcome to my freshly minted website. This post covers highlights from the past 
 
 ## Highlights of 2019
 
-![Ice Hike](/images/2020-january/icehike.gif)
+![Ice Hike](/images/2020-new-year/icehike.gif)
 
-![FC BCN](/images/2020-january/smallbcn.gif)
-![Mes Que Un Club](/images/2020-january/stadium.gif)
+![FC BCN](/images/2020-new-year/smallbcn.gif)
+![Mes Que Un Club](/images/2020-new-year/stadium.gif)
 
-![Ping Pong](/images/2020-january/pingpong.gif)
+![Ping Pong](/images/2020-new-year/pingpong.gif)
 
-![Nearly Reaching Goals](/images/2020-january/climb.gif)
-![Jungle](/images/2020-january/jungle.gif)
+![Nearly Reaching Goals](/images/2020-new-year/climb.gif)
+![Jungle](/images/2020-new-year/jungle.gif)
 
-![Soccer](/images/2020-january/justin.gif)
+![Soccer](/images/2020-new-year/justin.gif)
 
-![Starcourt](/images/2020-january/starcourt.gif)
-![Allsion](/images/2020-january/allisontiny.gif)
+![Starcourt](/images/2020-new-year/starcourt.gif)
+![Allsion](/images/2020-new-year/allisontiny.gif)
 
-![Haleakale](/images/2020-january/haleakale.gif)
+![Haleakale](/images/2020-new-year/haleakale.gif)
 
-![Family](/images/2020-january/smallfamily.gif)
+![Family](/images/2020-new-year/smallfamily.gif)
 
 ### 2019 - The Best We Could Do
 
