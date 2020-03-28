@@ -7,22 +7,24 @@ draft: false
 
 ## Highlights of March
 
-- Turned 27 ✅
-- Disassembled PS4 ✅
-- Restrung my guitar ✅
+- Turned 27 🎁
+- Disassembled PS4 🔏
+- Restrung my guitar 🎸
   - Over a year had past with it missing a string, collecting dust and regret.
-- Built a home office ✅
-- Got promoted! ✅
+- Built a home office 🖥
+- Got promoted! 🎉
   - Feels good. Love my team, still loving Convoy. I'm grateful to work at a company that can thrive in the inflamed economic environment.
 
 ## Lowlights
 
-- No gym, no weights
+- No gym, no weights.
   - There is nothing I want more in this world at the moment than a pair of 35lb dumbbells. Sadly, they're out.
+- _Lots_ of internet surfing.
+  - Waiting for the code to compile? The muscle-memory in my fingers would navigate my attention to Hacker News, The Verge, Tech Crunch, Reddit, Polygon, Kotaku, faster than my brain could keep up with. If my phone was in hand, I would bounce between Instagram and Facebook in a very similar, instinctual fashion.
 
 ### Thoughts
 
-I spent more quality time with friends in March 2020 than any other period in recent memory. Mostly virtual, sometimes in very small groups.
+I spent more quality time with friends in March 2020 than any other period in recent memory. Mostly virtual, sometimes in small groups. It was lovely. The time together felt more intentional than ever before. We could vent about our fears and frustrations with our reality. To quote Mr. Rogers, anything mentionable is manageable.
 
 ### Faves from the month
 
@@ -55,3 +57,5 @@ Theme: Assemble!
 Footnotes
 
 [1] "They," being the entirety of the internet.
+
+[2] "A Beautiful Day in The Neighborhood" was a close second. I, like many, was a skeptic of Mr. Rogers. Highly recommend.
