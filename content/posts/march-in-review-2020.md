@@ -14,13 +14,15 @@ draft: false
 - Built a home office 🖥
 - Got promoted! 🎉
   - Feels good. Love my team, still loving Convoy. I'm grateful to work at a company that can thrive in the inflamed economic environment.
+- Digital Wellbeing ☀️
+  - In an effort to minimize the Youtube blackhole, I started agressively clicking "Not Interested" or even "Block Channel" for recommendations on the homepage. This dramatically reduce the homepage scrolling, though I don't think there's a world where scrolling Youtube is very healthy in the first place.
 
 ## Lowlights
 
 - No gym, no weights.
   - There is nothing I want more in this world at the moment than a pair of 35lb dumbbells. Sadly, they're out.
-- _Lots_ of internet surfing.
-  - Waiting for the code to compile? The muscle-memory in my fingers would navigate my attention to Hacker News, The Verge, Tech Crunch, Reddit, Polygon, Kotaku, faster than my brain could keep up with. If my phone was in hand, I would bounce between Instagram and Facebook in a very similar, instinctual fashion.
+- _Too_ much of internet.
+  - Waiting for the code to compile? The muscle-memory in my fingers would navigate my attention to Hacker News, The Verge, Tech Crunch, Reddit, Polygon, Kotaku, faster than my brain could keep up with. Youtube sessions would mutate from well-intentioned education sessions into lowest-common-denominator mindlessness. With my phone was in hand, I could start infinitely scrolling Instagram, Facebook, and Reddit without a moment's notice of _why_ I had opened the app in the first place.
 
 ### Thoughts
 
@@ -58,4 +60,6 @@ Footnotes
 
 [1] "They," being the entirety of the internet.
 
-[2] "A Beautiful Day in The Neighborhood" was a close second. I, like many, was a skeptic of Mr. Rogers. Highly recommend.
+[2] Thankfully I have relatively strict timers on my mobile apps (15 minutes each for FB, IG, and Reddit). Still, hitting the limit on each of those every day feels bad.
+
+[3] "A Beautiful Day in The Neighborhood" was a close second. I, like many, was a skeptic of Mr. Rogers. Highly recommend.
