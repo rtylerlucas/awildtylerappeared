@@ -7,12 +7,31 @@ Happy leapt year! February went fast, even with that extra day. Here in Seattle,
 
 ## Highlights of February
 
-- Coffee with an experienced engineer ✅
-- Design a T Shirt ✅
+- Coffee with an experienced engineer ☕️
+  - I paired up with a mentor at Convoy! It was a shot in the dark, but I'm really glad I did it. We had coffee once, with a bi-weekly meeting scheduled from then on out. I was surprised how powerful it was to spend 45 minutes discussing career paths with an experienced stranger.
+- Design a T Shirt 🌊
+  - The front logo represents my org at work (Shipment Success), riffing on the White Claw logo. The back has the coolest picture of GH I could find, embracing the nautical theme:
+  ![Grace Hopper](/images/2020-march/grace-hopper.png)
 - Bi-Weekly Financial Review ❌
   - This was missed. This will happen by necessity when we do our taxes this month. I will say we've been much more budget-friendly since moving into our new apartment (Dropping $1000 in rent every month was a godsend).
 - Digital Wellbeing ☀️
   - The latest phone update came with a couple of really handy features. One of them makes it easy to set daily timers for Apps, and forces you off them when those timers expire. I've set timers for IG & FB of 15 minutes each, and it's been fantastic. My phone has some embarassing metrics of days prior to the timers where I spent over an hour on just one of those applications.
+
+## Lowlights
+
+Threw away hours and hours in Destiny 2 on PS4. 🤮
+
+It was dark when I left for work in the morning and dark when I'd get home. I needed an escape. I spur-of-the-moment downloaded this game; boy do I regret it. Many a night I spent glued to the television. It was a LOT of fun, at first. _HUGE_ levels of happiness, wow. I was really stressed with work, I thought this a perfect counterbalance to those anxieties. The dopamine drip slowed, however, over time. By the end of the month, I was angry at myself. How could I invest so much attention into something meaningless? I couldn't even share it with anyone, playing solo the entire time. MMOs _really_ work on me. There's a never-ending list of virtual tasks to complete -  _quickly_ becoming stronger, smarter, and wealthier the more time you invest. There's also a wonderful feeling of mastery that comes with playing well in PVP. But _damn_, what a _waste_. Writing this out feels great, and helps me target why those types of games are so enthralling for me:
+
+- Complete attention-break from negative thought loops (work stress, life unknowns)
+- Straight-forward ramp of progress, with well-placed milestones and rewards evenly distributed along the way.
+- The feeling of mastery that comes with being 'the best' in competition.
+- Colorful art, story, music, and community.
+- The ability to interact with others with shared objectives and shared rewards.
+
+Anyways, if you too struggle with, what boils down to, a lowkey addiction, I highly recommend writing out what positives this thing does for you in the short term contrasted against what you really want to achieve long term.
+
+If you specifically struggle with gaming, I recommend [/r/StopGaming](https://www.reddit.com/r/StopGaming/). There are some sobering stories on there of people wasting _years_ of their lives with nothing to show for it.
 
 ### Thoughts
 
@@ -22,7 +41,7 @@ Two goal-oriented months in, I've noticed I've become slightly more attune to th
 
 - Movie: Parasite
   - https://www.youtube.com/watch?v=ma1rD2OP85c
-- Music: Find an Island
+- Music: BENEE - Find an Island
   - https://www.youtube.com/watch?v=fkAWyeoiYEk
 - Book: Oathbringer
   - Even better the second time around. 4th book in the series drops this Fall.
@@ -35,6 +54,14 @@ Theme: Music!
 
 KR 1: Restring classical guitar
 
-KR 2: Read "It Doesn't Take a Hero" by Norman Schwarzkopf
+KR 2: Complete "It Doesn't Take a Hero" by Norman Schwarzkopf
 
-Do music stuff.
+KR 3: Do music stuff.
+
+## Footnotes
+
+[1] The indefinate WFH put a pause on actually producing this thing, but wow it felt good to make.
+
+[2] I played solo, but that doesn't mean alone. I would match with strangers and pew-pew the bad guys without actually talking to each other. Again, it feels great to write this out. Because, gross. :)
+
+[3] As with any initial subreddit exploration, sort by "Top", "This Year", (or even better still, "Top", "All Time").
