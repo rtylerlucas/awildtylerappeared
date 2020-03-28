@@ -11,6 +11,8 @@ Happy leapt year! February went fast, even with that extra day. Here in Seattle,
 - Design a T Shirt ✅
 - Bi-Weekly Financial Review ❌
   - This was missed. This will happen by necessity when we do our taxes this month. I will say we've been much more budget-friendly since moving into our new apartment (Dropping $1000 in rent every month was a godsend).
+- Digital Wellbeing ☀️
+  - The latest phone update came with a couple of really handy features. One of them makes it easy to set daily timers for Apps, and forces you off them when those timers expire. I've set timers for IG & FB of 15 minutes each, and it's been fantastic. My phone has some embarassing metrics of days prior to the timers where I spent over an hour on just one of those applications.
 
 ### Thoughts
 
