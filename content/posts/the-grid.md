@@ -11,29 +11,37 @@ I asked and received Bakke's book for Christmas (thanks mom 🙏), curious about
 
 ## How It Works
 
-Electricity is produced and consumed as soon as it is requested. You flip a light switch, some power plant, most likely burning coal, generates the electricity necessary to power that bulb, instantly.
+Electricity is produced and consumed as soon as it is requested. You flip a light switch, some power plant, most likely burning coal, generates the electricity necessary to power that bulb, your bulb consumes that electricity, instantly. The longer you leave the light on, the more electricity is generated.
 
-### Power Plants: as easy as PB&J
+Understanding how electricity is actually produced and consumed was the foundational unknown that rapt my attention. It took a surprising amount of time for it to get through my thick skull, but I finally get it, and it's much simplier than I had it out to be. Let's see if I can prove that:
 
-1. Heat up some water, causes steam
-2. Capture the steam, point at propellor
-3. Ensure propellor has magnets on it
-4. Run a metal wire through the middle of the propellor
-5. Surround the metal-pierced propellor and with a circular metal casing
-6. Put a lightbulb on the end of wire, keep heating that water, you have yourself a generator!
+### Create Electricity: Easy as PB&J
 
-You've now made a generator. Metal, magnets, metal sandwich. As easy as making a PB&J. 🥪
+1. Heat up water, this produces steam.
+2. Capture the steam, point it at a propellor.
+3. Cover propellor has magnets on it.
+4. Run a metal wire through the middle of the propellor.
+5. Surround the metal-pierced propellor with a circular metal casing.
+6. Put a lightbulb on the end of wire, continue heating water, you have yourself a generator!
+
+You've now created electricity. Metal, magnets, metal sandwich. As easy as making a PB&J. 🥪
 
 This [Video and How Do](http://www.amasci.com/amateur/coilgen.html) is what finally got the concept to stick for me.
 
-Then what happens my bulb is off? Surely the power plant is still heating water?
+### When We Fall Asleep, Where Does It Go
 
-This one took me a while to wrap my head around, this quora answer helped!
+What happens my bulb is off? Surely the power plant doesn't stop heating water?
+
+Yes, the power plant will continue heating water, but no, they are no longer heating water for you. The grid's massive userbase helps balance out the instantaneous nature of consuming electricity. As soon as you turn your lights off, someone else on the other side of the country is turning their lights on, probably. This allows the power plants to continuously shovel a predictable amount of coal into the furnace, as the grid tends load balances itself quite nicely.
+
+This took me a minute to wrap my head around. This Quora answer helped!
 https://www.quora.com/What-happens-to-electricity-that-is-not-used
 
 ## How It Came To Be
 
-The American electrical system had a exponentional rise to fame. It quickly went from novelty to necessisity. One thing I found relatable 
+[wip] 
+
+The American electrical system had a exponentional rise to fame. It quickly went from novelty to necessisity. One thing I found relatable...
 
 ### Taming the beast
 
