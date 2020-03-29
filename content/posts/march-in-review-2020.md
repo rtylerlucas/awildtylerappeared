@@ -72,20 +72,24 @@ KR 1: Cobble together a piano piece.
 
 KR 2: Master a new meal.
 
-- Adding spring rolls to our arsenal felt empowering.
+- Adding spring rolls to our arsenal felt empowering. I want another receipe, known by heart, in the utility belt.
 
 KR 3: Write about "It Doesn't Take A Hero".
 
 - I've found the only way I can read hard books and get something out of it is to test myself on them. What better way to test than to write about it.
 
+KR 4: Fix the Internet Timesuck.
+
+- I want this to be more measureable, more actionable. Until then, using this handwavy statement as a placeholder.
+
 ## Footnotes
 
-[¹](#1) "They," being the entirety of the internet.
+[¹](#1) _"They," being the entirety of the internet. A quick Ebay search shows the **extortion** taking place. (($137 for a a single dumbbell))_
 
 [²](#2) _I'm looking at you, Architectural Digest!_
 
-[³](#3) Thankfully I have relatively strict timers on my mobile apps (15 minutes each for FB, IG, and Reddit). Still, hitting the limit on each of those every day feel
+[³](#3) _Thankfully I have relatively strict timers on my mobile apps (15 minutes each for FB, IG, and Reddit). Still, hitting the limit on each of those every day feels not good._
 
-[⁴](#4) _I understand small groups are a big thumbs down in the Season of Quarantine. We keep our distance, wash hands aggressively, and lift each other's spirits in this incredibly uncertain time.
+[⁴](#4) _I understand small groups are a big thumbs down in the Season of Quarantine. We keep our distance, wash hands aggressively, and lift each other's spirits in this incredibly uncertain time._
 
-[⁵](#5) "A Beautiful Day in The Neighborhood" was a close second. I, like many, was a skeptic of Mr. Rogers. Highly recommend.
+[⁵](#5) _"A Beautiful Day in The Neighborhood" was a close second. I, like many, was a skeptic of Mr. Rogers. Highly recommend._
