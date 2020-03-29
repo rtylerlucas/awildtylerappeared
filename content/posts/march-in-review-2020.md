@@ -47,12 +47,14 @@ Productivity: 📈 YouTube black holes: 📈
 
 ## Thoughts
 
-I spent more quality time with friends in March 2020 than any other period in recent memory. Mostly virtual, sometimes in small groups.[⁴](#4) It was lovely. The time together felt more intentional than ever before. We could vent about our fears and frustrations with our reality. To quote Mr. Rogers, anything mentionable is manageable.
+I spent more quality time with friends in March 2020 than any other period in recent memory. Mostly virtual, sometimes in small groups.[⁴](#4) It was lovely. The time together felt more intentional than ever before. We vented our fears and frustrations with our reality. We celebrated the small stuff. We talked. To quote Fred Rogers, "Anything that's human is mentionable, and anything that is mentionable can be more manageable. When we can talk about our feelings, they become less overwhelming, less upsetting, and less scary."
 
 ## Faves from the month
 
+![Media Collage March 2020](/images/2020-march/media_collage_march.png)
+
 - Movie: [Bombshell](https://www.youtube.com/watch?v=B2G9-KhBek8)[⁵](#5)
-- Music: [Edith Piaf](https://www.youtube.com/watch?v=kFzViYkZAz4)
+- Music: [Marshmello](https://www.youtube.com/watch?v=A57B7B6w3kw)
 - Book: [Goliath Must Fall](https://www.amazon.com/dp/B01MYLUMR8/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) (Bible Book)
   - Helps me sleep at night and get up in the morning, particularly with the pandemic afoot.
 - Card Game: [Dominion](https://boardgamegeek.com/boardgame/36218/dominion)
