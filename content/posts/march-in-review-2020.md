@@ -4,11 +4,11 @@ date: 2020-03-28T10:00:00-00:00
 draft: false
 ---
 
-March tends to be a nice month for me. It's the month I was born, and it's the first month that's _not_ February, which is by far my least favorite month of the year. The weather has started to turn from doom & gloom to happiness & sunshine. Thank God I'm chipper for Marches, because 03/2020 was decidedidly terrible for the rest of humanity. Jen & I have been working from home for a full month now. Our dogs love it. We continue to learn how to adapt to it.
+March tends to be a nice month for me. It's the month I was born, and it's the first month that's _not_ February, which is by far my least favorite month of the year. The weather turns from doom & gloom to spotted happiness & sunshine. Thank God I'm chipper for Marches, because 03/2020 was decidedidly terrible for the rest of humanity. Jen & I have been working from home for a full month now. Our dogs love it. We continue to learn how to adapt to it.
 
 ## Highlights of March
 
-{{< instagram B9pJBVolo4Q hidecaption >}}
+{{< instagram B-XKu-NFueu hidecaption >}}
 
 ### Turned 27 🎉
 
