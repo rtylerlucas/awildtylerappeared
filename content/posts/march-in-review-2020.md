@@ -82,6 +82,10 @@ KR 4: Fix the Internet Timesuck.
 
 - I want this to be more measureable, more actionable. Until then, using this handwavy statement as a placeholder.
 
+KR 5: Update Homepage.
+
+- This website is now 4 months old, it's time for a facelift.
+
 ## Footnotes
 
 [¹](#1) _"They," being the entirety of the internet. A quick Ebay search shows the **extortion** taking place. (($137 for a a single dumbbell))_
