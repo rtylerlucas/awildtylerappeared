@@ -7,4 +7,3 @@ Lack of control increases illusory pattern perception (aka conspiriacy theory)
 https://www.youtube.com/watch?v=iEy-xTbcr2A
 
 https://www.youtube.com/watch?v=CLzUtMiq1N4
-
