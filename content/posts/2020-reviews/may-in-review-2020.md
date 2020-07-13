@@ -25,19 +25,11 @@ Jen and I flew to Atlanta for a week in the middle of May.
 
 ### Tennis 🎾
 
-- One man army. Successfully made progress in *both* innovation *and* operation. I moved the needle on some of our team's quarterly KRs while at the same time paid off critical tech debt for some of our core services.
-
-
-### Smaller Wins
-
-## Lowlights
-
-
-
-## Thoughts
+- Lots of tennis in May. I really missed this sort of activity in quarentine.
 
 ## Faves from the month
 
+TODO
 ![Media Collage May 2020]()
 
 - Movie: [Free Solo](https://www.youtube.com/watch?v=aSGFt6w0wok)
@@ -46,20 +38,3 @@ Jen and I flew to Atlanta for a week in the middle of May.
 - Game: [Star Realms](https://boardgamegeek.com/boardgame/36218/dominion)
 - TV: [Chernoybl](https://www.youtube.com/watch?v=NVGuFdX5guE)
 
-## Goals for June
-
-KR 1: 
-
-## Footnotes
-
-[¹](#1) 
-
-[¹](#1) 
-
-[²](#2) 
-
-[³](#3) 
-
-[⁴](#4) __
-
-[⁵](#5) __
