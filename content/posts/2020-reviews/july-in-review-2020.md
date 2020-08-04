@@ -18,8 +18,8 @@ draft: false
 
 ## Faves from the month
 
-
 ## Goals for August
 
-Fill out Every David Goggins Challenge as soon as you come across it in his book. I've already completed Challenge #1 here.
+Fill out every David Goggins Challenge as soon as you come across it in his book. I've already completed Challenge #1 here.
 
+I'm carrying over my theme from last month: less sarcastic, more loving.
