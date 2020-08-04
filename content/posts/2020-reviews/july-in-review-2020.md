@@ -22,4 +22,6 @@ draft: false
 
 Fill out every David Goggins Challenge as soon as you come across it in his book. I've already completed Challenge #1 here.
 
-I'm carrying over my theme from last month: less sarcastic, more loving.
+Modify my Hugo template to support category tabbing.
+
+My theme for August will be the same as July: less sarcastic, more loving and forgiving.
