@@ -20,6 +20,6 @@ draft: false
 
 ## Faves from the month
 
-- Can't Hurt Me - David Goggins, Young Money - Kevin Roose
+- Avengers (PS4)
 
 ## Goals for October
