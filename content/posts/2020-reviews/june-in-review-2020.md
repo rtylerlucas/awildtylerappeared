@@ -49,3 +49,5 @@ I've been running more and more. God it feels good. It's become a form of therap
 ## Goals for July
 
 I am trying _really hard_ to figure out what the hell I would do with my time if I retired today. I am a decade (or two) off from retirement, but with quarantine, privilage, hard work, and luck, I've found the venn-diagram of being retired and being a remote employee have substantial overlap; an excess of freetime with very few people to spend it with. So I _reallyyy_ want to know, what does a fullfilling retirement look like for me? How does it differ from an entertaining one? How is it the same?
+
+My theme this month is to be less sarcastic, and more loving.
