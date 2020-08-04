@@ -21,5 +21,6 @@ draft: false
 ## Faves from the month
 
 - Can't Hurt Me - David Goggins, Young Money - Kevin Roose
+- Nadiya's Time To Eat, Umbrella Academy, Steven Universe
 
 ## Goals for September

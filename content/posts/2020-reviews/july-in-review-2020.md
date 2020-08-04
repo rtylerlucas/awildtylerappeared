@@ -18,10 +18,17 @@ draft: false
 
 ## Faves from the month
 
+- On Grief, The Dragon Reborn (Wheel of Time) - Robert Jordan
+- The Last Dance
+- Basketball, Spikeball
+- Great British Baking Show
+
 ## Goals for August
 
 Fill out every David Goggins Challenge as soon as you come across it in his book. I've already completed Challenge #1 here.
 
 Modify my Hugo template to support category tabbing.
+
+Use my GoPro 2 times.
 
 My theme for August will be the same as July: less sarcastic, more loving and forgiving.
