@@ -10,13 +10,10 @@ draft: false
 
 {{< instagram xxx >}}
 
-- Camping
+- Vashon Island
 
 ## Audiobook Ideas
 
-- Distort / warp "filter" voices
-- Automated background music
-- Live Transcription
 
 ## Faves from the month
 

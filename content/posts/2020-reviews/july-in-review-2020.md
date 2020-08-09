@@ -18,17 +18,19 @@ draft: false
 
 ## Faves from the month
 
-- On Grief, The Dragon Reborn (Wheel of Time) - Robert Jordan
-- The Last Dance
+TODO - Julu Media Collage 
+
+- The Grief Recovery Handbook - John James, The Dragon Reborn (Wheel of Time) - Robert Jordan
+- The Last Dance, New Girl, Great British Baking Show
 - Basketball, Spikeball
-- Great British Baking Show
 
 ## Goals for August
 
-Fill out every David Goggins Challenge as soon as you come across it in his book. I've already completed Challenge #1 here.
+1. Fill out every David Goggins Challenge as soon as you come across it in his book. I've already completed [Challenge #1 here](https://www.awildtylerappeared.com/posts/david-goggins-challenges/challenge-1/).
 
-Modify my Hugo template to support category tabbing.
+2. Modify my Hugo template to support category tabbing.
+   - [Here is a repo](https://github.com/rvanhorn/hugo-dynamic-tabs#:~:text=Hugo%20Dynamic%20Tabs%20uses%20two,individual%20tab%20within%20that%20group.) that will lead me on the right track
 
-Use my GoPro 2 times.
+3. Use my GoPro 2 times.
 
-My theme for August will be the same as July: less sarcastic, more loving and forgiving.
+4. My themes for August will be the same as July: less sarcastic, more loving & forgiving.
