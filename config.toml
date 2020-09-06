@@ -1,7 +1,7 @@
 baseURL = "https://www.awildtylerappeared.com/"
 languageCode = "en-us"
 title = "awildtylerappeared"
-theme = "mediumish"
+theme = "mediumish-gohugo-theme"
 summaryLength = 25
 copyright = "Tyler Lucas - All rights reserved"
 disqusShortname = "awildtylerappeared"
@@ -9,6 +9,7 @@ disqusShortname = "awildtylerappeared"
 [params]
   logo = "/images/t-logo.png"
   description =""
+  custom_css=["/css/overrides.css"]
 
 [params.author]
   name = "Tyler Lucas"

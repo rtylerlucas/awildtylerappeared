@@ -1,4 +1,7 @@
 {{ define "header"}}
+    {{ range .Site.Params.custom_css -}}
+        <link rel="stylesheet" href="{{ . | absURL }}">
+    {{- end }}
     {{- partial "_shared/navbar.html" . -}}
 {{ end }}
 
@@ -9,15 +12,33 @@
         ================================================== -->
         <section class="recent-posts">            
             <div class="section-title">                
-                <h2><span>Posts!</span></h2>                
+                <h2><span> 
+                    {{ if .Title }}
+                        {{ .Title }}
+                    {{ else }}
+                        Posts
+                    {{ end }}
+                </span></h2>                
             </div>            
             <div class="row listrecent">
-                {{ $post_paginator := .Paginate (.Pages) 6 }}
-                {{ range $post_paginator.Pages }}
-                    {{- partial "list-partials/postbox.html" . -}}
-                {{end}}
+                
+                {{if eq .Title "All Posts"}}
+                    {{ $post_paginator := .Paginate ($.Site.RegularPages) 6}}
+                        {{ range $post_paginator.Pages }}
+                            {{- partial "list-partials/postbox.html" . -}}
+                        {{end}}
+                    {{ $.Scratch.Set "pager" $post_paginator}}
+                {{ end }}
+                {{if ne .Title "All Posts"}}
+                    {{ $all_post_paginator := .Paginate (.Pages) 6}}
+                    {{ range $all_post_paginator.Pages }}
+                            {{- partial "list-partials/postbox.html" . -}}
+                    {{end}}
+                    {{ $.Scratch.Set "pager" $all_post_paginator}}
+                {{ end }}
             </div>
         </section>
+        {{ $post_paginator := $.Scratch.Get "pager"}}
         {{- partial "list-partials/pagination.html" $post_paginator -}}
     </div>
     {{- partial "_shared/alertbar.html" . -}}
