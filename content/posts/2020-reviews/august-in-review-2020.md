@@ -8,8 +8,6 @@ draft: false
 
 ## Highlights of August
 
-{{< instagram xxx >}}
-
 - Camping
 
 ## Audiobook Ideas

@@ -8,8 +8,6 @@ draft: false
 
 ## Highlights of September
 
-{{< instagram xxx >}}
-
 - Vashon Island
 
 ## Audiobook Ideas
