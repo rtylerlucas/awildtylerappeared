@@ -2,6 +2,8 @@
 title: "The Power Grid"
 date: 2020-01-31T23:59:00-00:00
 draft: false
+tags:
+- tldr
 ---
 
 "_Electricity is not like anything else. It's not a solid, or a liquid, or a gas. It doesn't move like the wind or tides. It doesn't combust like oil or burn like wood. If it resembles anything at all from the world we know, it is in some way like gravity._"

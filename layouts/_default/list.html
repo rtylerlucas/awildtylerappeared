@@ -18,7 +18,7 @@
                         {{ .Scratch.Set "currentTitle" .Title}}
                     {{ end }}
                     {{ $current_title := .Scratch.Get "currentTitle" }}
-                    {{ range (sort (where .Site.Pages "Kind" "=" "section") ".Params.idx" "asc" ) }}
+                    {{ range (sort (where (where .Site.Pages "Kind" "=" "section") "Title" "!=" "Tags") ".Params.idx" "asc" ) }}
                         {{ if eq .Title $current_title}}
                             <span class="chosen-section">
                                 {{.Title}}

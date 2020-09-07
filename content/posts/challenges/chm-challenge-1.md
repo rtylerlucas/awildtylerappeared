@@ -2,6 +2,8 @@
 title: "Can't Hurt Me: Challenge #1"
 date: 2020-08-03T21:00:00-00:00
 draft: false
+tags: 
+- david-goggins
 ---
 
 _What are the current factors limiting your growth and success? Write them out in minute detail. Don’t be bland with this assignment. I showed you every piece of my dirty laundry. You will use your story, this list of excuses, these very good reasons why you shouldn’t amount to a damn thing, to fuel your ultimate success. What are the long-odds you are up against right now? Are you standing in your own way? Use hashtags #badhand #canthurtme_
