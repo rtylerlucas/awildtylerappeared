@@ -12,11 +12,23 @@
         ================================================== -->
         <section class="recent-posts">            
             <div class="section-title">                
-                <h2><span> 
+                <h2><span>
+                    
                     {{ if .Title }}
-                        {{ .Title }}
-                    {{ else }}
-                        Posts
+                        {{ .Scratch.Set "currentTitle" .Title}}
+                    {{ end }}
+                    {{ $current_title := .Scratch.Get "currentTitle" }}
+                    {{ range (sort (where .Site.Pages "Kind" "=" "section") ".Params.idx" "asc" ) }}
+                        {{ if eq .Title $current_title}}
+                            <span class="chosen-section">
+                                {{.Title}}
+                            </span>
+                        {{ else }}
+                            <!-- {{ ref . "/posts/david-goggins-challenges/challenge-2.md" }} -->
+                            <!-- {{ .File.Dir }} -->
+                            <a style="color:black" href='/{{ .File.Dir }}'>{{ .Title }}</a>
+                        {{ end }}
+                        &nbsp;&nbsp;
                     {{ end }}
                 </span></h2>                
             </div>            

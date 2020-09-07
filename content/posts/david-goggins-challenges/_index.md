@@ -2,7 +2,7 @@
 title: David Goggins Challenges
 date: 2020-08-01
 publishdate: 2020-08-01
-isAll: false
+idx: 2
 ---
 
 I decided to start learning Go in March 2017.

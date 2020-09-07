@@ -2,7 +2,7 @@
 title: "All Posts"
 date: 2020-08-01
 publishdate: 2020-08-01
-isAll: true
+idx: 0
 ---
 
 I decided to start learning Go in March 2017.
