@@ -2,6 +2,8 @@
 title: "Time Travel Movies"
 date: 2020-01-19T11:38:00-00:00
 draft: false
+tags: 
+- top-tens
 ---
 
 I love stories that mess with time. Seeing characters interact over vastly different time periods is pure movie magic. I initially wrote captions for each of these, but found them more powerful without. Perfect movies for any given Sunday.
