@@ -1,5 +1,5 @@
 ---
-title: David Goggins Challenges
+title: Challenges
 date: 2020-08-01
 publishdate: 2020-08-01
 idx: 2

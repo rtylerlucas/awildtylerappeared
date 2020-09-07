@@ -1,5 +1,5 @@
 ---
-title: 2020 Reviews
+title: Monthly Reviews
 date: 2020-08-01
 publishdate: 2020-08-01
 idx: 1

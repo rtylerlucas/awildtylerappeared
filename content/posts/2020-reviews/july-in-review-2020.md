@@ -26,7 +26,7 @@ TODO - Julu Media Collage
 
 ## Goals for August
 
-1. Fill out every David Goggins Challenge as soon as you come across it in his book. I've already completed [Challenge #1 here](https://www.awildtylerappeared.com/posts/david-goggins-challenges/challenge-1/).
+1. Fill out every David Goggins Challenge as soon as you come across it in his book. I've already completed [Challenge #1 here](https://www.awildtylerappeared.com/posts/challenges/challenge-1/).
 
 2. Modify my Hugo template to support category tabbing.
    - [Here is a repo](https://github.com/rvanhorn/hugo-dynamic-tabs#:~:text=Hugo%20Dynamic%20Tabs%20uses%20two,individual%20tab%20within%20that%20group.) that will lead me on the right track
