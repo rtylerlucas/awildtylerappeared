@@ -8,9 +8,9 @@ In this post I'll cover some highlights from January, my media of the month, my 
 
 ## Highlights of January
 
-{{< instagram B7RHYhxFVu8 >}}
+<!--  -->
 
-{{< instagram B8PfmjuFbRD >}}
+<!--  -->
 
 ![Glass](/images/2020-january/chihuley.jpg)
 

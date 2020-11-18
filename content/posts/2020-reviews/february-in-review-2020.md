@@ -7,7 +7,7 @@ Happy leapt year! February went fast, even with that extra day. Here in Seattle,
 
 ## Highlights of February
 
-{{< instagram B9hko9ilv9o >}}
+<!--  -->
 
 - Coffee with an experienced engineer ☕️
   - I paired up with a mentor at Convoy! It was a shot in the dark, but I'm really glad I did it. We had coffee once, with a bi-weekly meeting scheduled from then on out. I was surprised how powerful it was to spend 45 minutes discussing career paths with an experienced stranger.

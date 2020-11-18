@@ -8,7 +8,7 @@ March tends to be a nice month for me. It's the month I was born, and it's the f
 
 ## Highlights of March
 
-{{< instagram B-XKu-NFueu hidecaption >}}
+<!--  -->
 
 ### Turned 27 🎉
 

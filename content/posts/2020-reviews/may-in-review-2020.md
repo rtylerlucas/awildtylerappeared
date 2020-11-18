@@ -8,7 +8,7 @@ May was a month of motivation.
 
 ## Highlights of May
 
-{{< instagram CBRAZd4FwCx >}}
+<!--  -->
 
 ### Atlanta 🍑
 
