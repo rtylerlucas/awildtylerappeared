@@ -8,7 +8,7 @@ draft: false
 
 ## Highlights of June
 
-{{< instagram CBdbQxwlPww >}}
+<!--  -->
 
 ### Black Lives Matter ✊🏾
 

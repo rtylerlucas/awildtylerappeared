@@ -10,13 +10,8 @@ draft: false
 ## Highlights of August
 
 - Camping
-- Kneeboarding. Driving Brendan's boat
-
-## Audiobook Ideas
-
-- Distort / warp "filter" voices
-- Automated background music
-- Live Transcription
+- Kneeboarding 
+- Driving Brendan's boat
 
 ## Faves from the month
 

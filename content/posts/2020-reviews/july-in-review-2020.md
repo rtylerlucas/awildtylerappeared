@@ -6,7 +6,7 @@ draft: false
 
 ## Highlights of July
 
-{{< instagram CDVcqhdFhv8 >}}
+<!--  -->
 
 ## Work
 
