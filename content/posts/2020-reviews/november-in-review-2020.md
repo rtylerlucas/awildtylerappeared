@@ -18,7 +18,7 @@ draft: false
 
 It's hard to believe November 2020 has come and gone. Why am I so frequently surprised by the passing of time? Who's to say. November in Georgia was beautiful. Cool but sunny. A pleasant contrast to the early fog that starts settling over Seattle around this time of year.
 
-We hosted a small Friendsgiving with our Atlanta crew. Fried turkey _and_ honeybaked ham. 🤤 Our friend group is much smaller than it was in Washington, but thankfully the Atlanta friends we do have exceptional.
+We hosted a small Friendsgiving with our Atlanta crew. Fried turkey _and_ honeybaked ham. 🤤 Our friend group is much smaller than it was in Washington, but thankfully the Atlanta friends we have are exceptional.
 
 Jen & I took a quick trip to Disney World with her parents the week before Thanksgiving. From beginning to end, the trip was a delight. There were lots of laughs, some thrilling rides, some especially wonderful meals, and plenty of quality time with close family. It was a healthy detatchment from the normal grind.
 
